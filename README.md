@@ -1,7 +1,15 @@
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
 # 🧠 Machine Learning, Deep Learning y Modelos Predictivos — De lo Básico a lo Avanzado
 
-> **Autor:** Juan Antonio Mugica Liparoli 
-> **Rol:** Data Analyst | Data Scientist | Aspiring Data Engineer  
+> **Autor:** Juan Antonio Mugica Liparoli
+
+> **Rol:** Data Analyst | Future Data Scientist & Data Engineer | Machine Learning Enthusiast
+
+> **Experiencia en:** Análisis de Cobranza, Gestión de Riesgo Crediticio y Desarrollo de Proyectos de Mitigación de Riesgo
 
 ---
 
