@@ -168,6 +168,6 @@ Espero que este repositorio sirva tanto como una **muestra de mis capacidades pr
 # 📩 Contacto
 Si te interesa colaborar o tienes preguntas:
 - [LinkedIn](https://www.linkedin.com/in/juan-antonio-mugica/)
-- [Correo electrónico](mailto:toonympl@gmail.com)
+- Correo electrónico: toonympl@gmail.com
 
 ---
