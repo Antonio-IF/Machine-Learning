@@ -11,6 +11,8 @@
 
 > **Experiencia en:** Análisis de Cobranza, Gestión de Riesgo Crediticio y Desarrollo de Proyectos de Mitigación de Riesgo
 
+> **Graduado de:** Ingeniería Financiera
+
 ---
 
 ## 🚀 Descripción general
