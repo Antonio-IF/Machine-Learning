@@ -1,137 +1,164 @@
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
 
-# 🧠 Machine Learning, Deep Learning y Modelos Predictivos — De lo Básico a lo Avanzado
+# 🧠 Machine Learning, Deep Learning & Predictive Models — From Basics to Advanced
 
-> **Autor:** Juan Antonio Mugica Liparoli
-
-> **Rol:** Data Analyst | Future Data Scientist & Data Engineer | Machine Learning Enthusiast
-
-> **Experiencia en:** Análisis de Cobranza, Gestión de Riesgo Crediticio y Desarrollo de Proyectos de Mitigación de Riesgo
-
-> **Graduado de:** Ingeniería Financiera
+> **Author:** Juan Antonio Mugica Liparoli
+> **Role:** Data Analyst | Future Data Scientist & Data Engineer | Machine Learning Enthusiast
+> **Experience in:** Collections Analysis, Credit Risk Management, and Risk Mitigation Project Development
+> **Graduated in:** Financial Engineering
 
 ---
 
-## 🚀 Descripción general
+🌐 This README is also available in [Español 🇪🇸](README.es.md)
 
-Este repositorio es una colección completa de proyectos y ejemplos prácticos que cubren **desde los fundamentos de Machine Learning** hasta **modelos avanzados de Deep Learning y técnicas de Inteligencia Artificial**.
+## 🚀 Overview
 
-El objetivo principal es **mostrar la progresión de habilidades** en:
-- **Preparación de datos**
-- **Modelado predictivo clásico**
-- **Implementación de redes neuronales profundas**
-- **Aplicación de técnicas de vanguardia** como Transfer Learning, NLP y Reinforcement Learning.
+This repository is a comprehensive collection of projects and practical examples covering **everything from the fundamentals of Machine Learning** to **advanced Deep Learning and cutting-edge Artificial Intelligence techniques**.
 
-Cada sección incluye:
-- **Teoría explicativa**
-- **Implementaciones prácticas**
-- **Visualizaciones de resultados**
-- **Buenas prácticas de codificación**
-- **Notas personales de aprendizaje**
+The main goal is to **showcase the progression of skills** in:
+
+* **Data preparation**
+* **Classic predictive modeling**
+* **Deep neural network implementation**
+* **Application of advanced techniques** such as Transfer Learning, NLP, and Reinforcement Learning.
+
+Each section includes:
+
+* **Explanatory theory**
+* **Hands-on implementations**
+* **Result visualizations**
+* **Best coding practices**
+* **Personal learning notes**
 
 ---
 
-## 📚 Contenidos
+## 📚 Contents
 
-### 1. Machine Learning Clásico
-- **Preprocesamiento de Datos**
-  - Tratamiento de valores faltantes, normalización y codificación.
-- **Modelos Básicos**
-  - Regresión Lineal
-  - Regresión Logística
-  - K-Nearest Neighbors (KNN)
-- **Modelos Supervisados Avanzados**
-  - Árboles de Decisión
-  - Random Forest
-  - Gradient Boosting (XGBoost, LightGBM)
-  - Support Vector Machines (SVM)
-- **Modelos No Supervisados**
-  - K-Means Clustering
-  - PCA (Análisis de Componentes Principales)
-- **Evaluación de Modelos**
-  - Matriz de confusión, Accuracy, Precision, Recall, F1, ROC-AUC
-  - Validación cruzada y optimización de hiperparámetros
+### 1. Classical Machine Learning
+
+* **Data Preprocessing**
+
+  * Handling missing values, normalization, and encoding.
+* **Basic Models**
+
+  * Linear Regression
+  * Logistic Regression
+  * K-Nearest Neighbors (KNN)
+* **Advanced Supervised Models**
+
+  * Decision Trees
+  * Random Forest
+  * Gradient Boosting (XGBoost, LightGBM)
+  * Support Vector Machines (SVM)
+* **Unsupervised Models**
+
+  * K-Means Clustering
+  * PCA (Principal Component Analysis)
+* **Model Evaluation**
+
+  * Confusion Matrix, Accuracy, Precision, Recall, F1 Score, ROC-AUC
+  * Cross-validation and hyperparameter tuning
 
 ### 2. Deep Learning
-- **Redes Neuronales Básicas**
-  - Implementación de MLPs para clasificación y regresión
-  - Uso de técnicas de regularización como Dropout
-- **Convolutional Neural Networks (CNNs)**
-  - Arquitecturas para clasificación de imágenes
-  - Data Augmentation
-- **Recurrent Neural Networks (RNNs)**
-  - Modelado de secuencias con LSTM y GRU
-- **Transfer Learning**
-  - Uso de modelos preentrenados como ResNet, VGG y EfficientNet
-- **Optimización Avanzada**
-  - Técnicas de optimización y batch normalization
 
-### 3. Temas Avanzados
-- **Ensemble Learning**
-  - Stacking, Blending, Voting
-- **Explainable AI (XAI)**
-  - Interpretabilidad con SHAP y LIME
-- **AutoML**
-  - Automatización del modelado con TPOT y H2O.ai
-- **NLP (Procesamiento de Lenguaje Natural)**
-  - Vectorización (Bag of Words, TF-IDF)
-  - Word Embeddings (Word2Vec, GloVe)
-  - Transformers básicos (BERT con HuggingFace)
-- **Computer Vision Avanzado**
-  - Segmentación de imágenes (U-Net, Mask R-CNN)
-  - Detección de objetos (YOLO, Faster R-CNN)
-- **Series de Tiempo**
-  - ARIMA, Prophet, LSTM para forecasting
-- **Modelos Generativos**
-  - Autoencoders y Generative Adversarial Networks (GANs)
-- **Reinforcement Learning**
-  - Q-Learning y Policy Gradients
+* **Basic Neural Networks**
 
----
+  * MLPs for classification and regression
+  * Regularization techniques like Dropout
+* **Convolutional Neural Networks (CNNs)**
 
-## 💻 Tecnologías y Librerías Utilizadas
-- **Python** como lenguaje base
-- **Pandas, NumPy, Scikit-learn** para análisis de datos y Machine Learning
-- **TensorFlow, Keras, PyTorch** para Deep Learning
-- **Matplotlib, Seaborn, Plotly** para visualizaciones
-- **HuggingFace Transformers** para NLP avanzado
-- **XGBoost, LightGBM, CatBoost** para Gradient Boosting
-- **SHAP, LIME** para interpretabilidad de modelos
-- **Auto-sklearn, H2O.ai, TPOT** para AutoML
+  * Architectures for image classification
+  * Data Augmentation
+* **Recurrent Neural Networks (RNNs)**
 
----
+  * Sequence modeling with LSTM and GRU
+* **Transfer Learning**
 
-## 📈 Objetivos de este Repositorio
+  * Pretrained models like ResNet, VGG, and EfficientNet
+* **Advanced Optimization**
 
-- 📚 Consolidar conocimientos fundamentales y avanzados en Data Science.
-- 🛠️ Demostrar habilidades técnicas en **manipulación de datos**, **desarrollo de modelos**, **evaluación de desempeño** y **optimización**.
-- 🌎 Crear una **referencia de proyectos de estudio** abierta a toda la comunidad de ciencia de datos.
-- 💼 Servir como **portafolio profesional** para aplicaciones en áreas de:
-  - **Data Analysis**
-  - **Data Science**
-  - **Machine Learning Engineering**
-  - **Data Engineering (bases de ML pipelines)**
+  * Optimization techniques and Batch Normalization
+
+### 3. Advanced Topics
+
+* **Ensemble Learning**
+
+  * Stacking, Blending, Voting
+* **Explainable AI (XAI)**
+
+  * Interpretability with SHAP and LIME
+* **AutoML**
+
+  * Automated modeling with TPOT and H2O.ai
+* **Natural Language Processing (NLP)**
+
+  * Vectorization (Bag of Words, TF-IDF)
+  * Word Embeddings (Word2Vec, GloVe)
+  * Transformers (BERT with HuggingFace)
+* **Advanced Computer Vision**
+
+  * Image segmentation (U-Net, Mask R-CNN)
+  * Object detection (YOLO, Faster R-CNN)
+* **Time Series**
+
+  * ARIMA, Prophet, LSTM for forecasting
+* **Generative Models**
+
+  * Autoencoders and Generative Adversarial Networks (GANs)
+* **Reinforcement Learning**
+
+  * Q-Learning and Policy Gradients
 
 ---
 
-## 🚀 Cómo Empezar
+## 💻 Technologies and Libraries Used
 
-1. Clona este repositorio:
+* **Python** as the core language
+* **Pandas, NumPy, Scikit-learn** for data analysis and ML
+* **TensorFlow, Keras, PyTorch** for deep learning
+* **Matplotlib, Seaborn, Plotly** for data visualization
+* **HuggingFace Transformers** for advanced NLP
+* **XGBoost, LightGBM, CatBoost** for boosting techniques
+* **SHAP, LIME** for model interpretability
+* **Auto-sklearn, H2O.ai, TPOT** for AutoML
+
+---
+
+## 📈 Repository Objectives
+
+* 📚 Consolidate both fundamental and advanced knowledge in Data Science
+* 🛠️ Demonstrate technical skills in **data manipulation**, **model development**, **performance evaluation**, and **optimization**
+* 🌎 Create a **public reference of study projects** for the data science community
+* 💼 Serve as a **professional portfolio** for roles in:
+
+  * **Data Analysis**
+  * **Data Science**
+  * **Machine Learning Engineering**
+  * **Data Engineering** (ML pipeline foundations)
+
+---
+
+## 🚀 Getting Started
+
+1. Clone the repository:
+
    ```bash
-   git clone https://github.com/tu_usuario/tu_repo.git
+   git clone https://github.com/your_username/your_repo.git
    ```
-2. Instala las dependencias:
+2. Install the dependencies:
+
    ```bash
    pip install -r requirements.txt
    ```
-3. Explora los notebooks en las carpetas organizadas por nivel de dificultad.
+3. Explore the notebooks in the folders organized by difficulty level.
 
 ---
 
-## 🧩 Estructura del Repositorio
+## 🧩 Repository Structure
+
 ```plaintext
 /machine-learning/
     /preprocessing/
@@ -155,29 +182,33 @@ Cada sección incluye:
 
 ---
 
-## 📚 Recursos Recomendados
-- Curso "Machine Learning" — Andrew Ng (Coursera)
-- "Deep Learning Specialization" — Andrew Ng (Coursera)
-- "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow" — Aurélien Géron
-- Documentación oficial de `scikit-learn`, `TensorFlow`, `PyTorch`, `HuggingFace`
+## 📚 Recommended Resources
+
+* “Machine Learning” — Andrew Ng (Coursera)
+* “Deep Learning Specialization” — Andrew Ng (Coursera)
+* “Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow” — Aurélien Géron
+* Official documentation for `scikit-learn`, `TensorFlow`, `PyTorch`, `HuggingFace`
 
 ---
 
-## 🌟 Notas Personales
+## 🌟 Personal Notes
 
-A lo largo del desarrollo de estos proyectos he fortalecido no solo mi conocimiento técnico, sino también habilidades críticas como:
-- Estructuración de proyectos complejos
-- Documentación clara y efectiva
-- Buenas prácticas de programación
-- Aprendizaje autodidacta y continuo
+Throughout these projects, I have strengthened not only my technical knowledge but also key skills such as:
 
-Espero que este repositorio sirva tanto como una **muestra de mis capacidades profesionales** como una **herramienta de aprendizaje para otros entusiastas** del mundo de la ciencia de datos.
+* Structuring complex projects
+* Writing clear and effective documentation
+* Following best programming practices
+* Self-learning and continuous improvement
+
+I hope this repository serves as both a **demonstration of my professional capabilities** and a **learning tool for other data science enthusiasts**.
 
 ---
 
-# 📩 Contacto
-Si te interesa colaborar o tienes preguntas:
-- [LinkedIn](https://www.linkedin.com/in/juan-antonio-mugica/)
-- Correo electrónico: toonymlp@gmail.com
+# 📩 Contact
+
+If you’d like to collaborate or have any questions:
+
+* [LinkedIn](https://www.linkedin.com/in/juan-antonio-mugica/)
+* Email: [toonymlp@gmail.com](mailto:toonymlp@gmail.com)
 
 ---
